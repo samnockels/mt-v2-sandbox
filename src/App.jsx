@@ -4,7 +4,7 @@ import { version } from "antd";
 
 class App extends React.Component {
   render(){
-    return 'hi'
+    return 1
   }
 }
 
